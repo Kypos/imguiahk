@@ -1,0 +1,31 @@
+Know problems:
+- Can't Exit app when pressing X
+- Need to find a way to make config flags work GetIo;;;Etc
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
