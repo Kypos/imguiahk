@@ -1,2 +1,0 @@
-C:\Users\synced\Desktop\imgui_ahk\Lib\cpp\Debug\imgui.dll
-C:\Users\synced\Desktop\imgui_ahk\cpp\Debug\imgui.dll
